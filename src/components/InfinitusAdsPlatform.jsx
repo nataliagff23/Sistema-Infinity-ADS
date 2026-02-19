@@ -57,7 +57,7 @@ const STEPS = [
       "Pasan a curación de contenido para orden y validación final.",
     ],
     output: "10 headlines pulidos listos para testear.",
-    link: "https://chatgpt.com/g/g-69246916acc88191bec3f58daaf5d713-infinitus-ads-1-analista-de-mercado-consumidor",
+    link: "https://chatgpt.com/g/g-697cce5b53e08191a1e9da21fe7d7df2-2-headline-titulares-img-ads-imperians-agency",
     linkLabel: "Abrir Headline Engine",
     duration: "20-30 min",
     inputNeeded: "Análisis de mercado",
